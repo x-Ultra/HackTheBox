@@ -4,7 +4,7 @@ This repository holds the writeups (.md files and executable of script used) tha
 
 PM me via HTB if you want to check on some of them.
 
-Theese writeups are not intended to be used to spoiler the procedure used to get the machines, but it is a way to hold all my work on htb.
+These writeups are not intended to be used to spoil the procedure used to get the machines, but it is a way to hold all my work on htb.
 
 
-<script src="https://www.hackthebox.eu/badge/282797"></script>
+<img src="http://www.hackthebox.eu/badge/image/282797" alt="Hack The Box">
