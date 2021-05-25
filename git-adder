@@ -1,0 +1,59 @@
+#! /bin/bash
+
+# All the useful stuff
+
+#find . -maxdepth 2 -type f -name "*.md"
+
+for dir in $(find . -maxdepth 1 -type d)
+do
+	if [[ $dir == "." ]]
+	then
+		continue
+	fi
+
+	cd $dir
+	echo "DIR: $dir"
+	name=$(find . -maxdepth 1 -name "*.md" | cut -d "/" -f 2 |cut -d "." -f 1)
+
+	if [[ $name == "" ]]
+	then
+		cd ..
+		continue
+	fi
+
+	alreadyzipped=$(find . -maxdepth 1 -name "${name}-writeup.zip")
+
+	if [[ ${#alreadyzipped} -ge 1 ]]
+	then
+		cd ..
+		continue
+	fi
+
+	#scanning file
+	for file in $(find . -maxdepth 1 -not -type d)
+	do
+		file=$(echo $file | cut -d "/" -f 2)
+		dim=$(ls -l $file | nawk '{print $5}')
+		#file sgreather that 2 MB are discarded
+		if [[ $dim -ge 2000000 ]]
+		then
+			continue
+		fi
+
+		echo $file >> tozip
+	done
+
+	passwd=$(openssl rand -base64 32)
+	echo $passwd > archive_password
+
+	#removing if exists an old one
+	rm $name-writeup.zip
+
+	zip --password $passwd $name-writeup.zip $(cat tozip)
+	rm tozip
+
+	git add ${name}-writeup.zip
+
+	cd ..
+done
+
