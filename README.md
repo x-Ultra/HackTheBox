@@ -15,5 +15,5 @@ These writeups are not intended to be used to spoil the procedure used to get th
 
 | Machine Name   |      Machine Logo      | 
 |:----------------:|:-----------------------:|
-|<p style="text-align: center;">Blunder</p>|![](https://raw.githubusercontent.com/x-Ultra/HackTheBox/main/machineImages/blunder.webp)|
+|<p style="text-align: center;">Blunder</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/blunder.webp)|
 |<p style="text-align: center;">Monitors</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/monitors.webp)|
