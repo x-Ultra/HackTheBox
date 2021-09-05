@@ -11,7 +11,7 @@ These writeups are not intended to be used to spoil the procedure used to get th
 </p>
 
 
-## Owned Machine
+## Owned Machines
 
 | Machine Name   |      Machine Logo      | 
 |:----------------:|:-----------------------:|
