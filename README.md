@@ -7,7 +7,7 @@ PM me via HTB if you want to check on some of them.
 These writeups are not intended to be used to spoil the procedure used to get the machines, but it is a way to hold all my work on htb.
 
 <p align="center">
-	<img src="http://www.hackthebox.eu/badge/image/282797" alt="Hack The Box">
+	![](http://www.hackthebox.eu/badge/image/282797)
 </p>
 
 
