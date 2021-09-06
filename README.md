@@ -42,3 +42,4 @@ These writeups are not intended to be used to spoil the procedure used to get th
 |<p style="text-align: center;">BountyHunyer</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/bountyhunter.webp)|
 |<p style="text-align: center;">Previse</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/previse.webp)|
 |<p style="text-align: center;">Horizontall</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/horizontall.webp)|
+|<p style="text-align: center;">Seal</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/seal.webp)|
