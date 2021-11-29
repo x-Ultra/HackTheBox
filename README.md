@@ -45,3 +45,4 @@ These writeups are not intended to be used to spoil the procedure used to get th
 |<p style="text-align: center;">Seal</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/seal.webp)|
 |<p style="text-align: center;">Forge</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/forge.png)|
 |<p style="text-align: center;">Bolt</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/bolt.png)|
+|<p style="text-align: center;">Secret</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/secret.png)|
