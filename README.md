@@ -46,3 +46,7 @@ These writeups are not intended to be used to spoil the procedure used to get th
 |<p style="text-align: center;">Forge</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/forge.png)|
 |<p style="text-align: center;">Bolt</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/bolt.png)|
 |<p style="text-align: center;">Secret</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/secret.png)|
+|<p style="text-align: center;">Titanic</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/titanic.png)|
+|<p style="text-align: center;">Chemestry</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/chemestry.png)|
+|<p style="text-align: center;">Greenhorn</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/greenhorn.png)|
+|<p style="text-align: center;">Underpass</p>|![](https://github.com/x-Ultra/HackTheBox/blob/main/machineImages/underpass.png)|
